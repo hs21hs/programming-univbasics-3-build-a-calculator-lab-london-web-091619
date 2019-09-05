@@ -19,6 +19,6 @@ return num1%num2
 end
 
 def square_root(num)
-return intiger.sqrt(num) 
+return Intiger.sqrt(num) 
 end
 
